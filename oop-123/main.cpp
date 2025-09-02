@@ -1,2 +1,3 @@
 #include <iostream>
-using namespacce std;
+using namespace std;
+
